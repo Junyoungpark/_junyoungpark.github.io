@@ -12,8 +12,8 @@ _Last Updated Nov. 2022_
 # First-order Context-based Adaptation for Generalizing to New Dynamical Systems
 ---
 
-![FOCA main](/images/FOCA.png)
-![FOCA main](http://junyoungpark.github.io/images/FOCA.png)
+![FOCA main](/images/FOCA.png "FOCA main")
+![FOCA main2](http://junyoungpark.github.io/images/FOCA.png "FOCA main2")
 
 http://junyoungpark.github.io/files/resume_junyoungpark.pdf
 
