@@ -11,7 +11,7 @@ _Last Updated Nov. 2022_
 
 # First-order Context-based Adaptation for Generalizing to New Dynamical Systems
 
-![FOCA main](/images/research/FOCA.png)
+![FOCA main](./images/research/FOCA.png)
 
 [[Preprint]](https://arxiv.org/abs/2206.00694) In this paper, we propose FOCA (First-Order Context-based Adaptation),
 a learning framework to model sets of systems governed by common but unknown laws that differentiate themselves by their
