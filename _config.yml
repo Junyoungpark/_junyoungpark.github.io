@@ -85,10 +85,10 @@ author:
   bio              : "Industrial engineering PhD, graph neural network enthusiast"
   location         : "Palo Alto, CA"
   employer         :
-  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=az8czv8AAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
