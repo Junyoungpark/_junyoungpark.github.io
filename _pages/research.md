@@ -13,8 +13,9 @@ _Last Updated Nov. 2022_
 ---
 
 ![FOCA main](/images/FOCA.png)
+![FOCA main](http://junyoungpark.github.io/images/FOCA.png)
 
-[//]: # (http://junyoungpark.github.io/files/resume_junyoungpark.pdf)
+http://junyoungpark.github.io/files/resume_junyoungpark.pdf
 
 [[Preprint]](https://arxiv.org/abs/2206.00694) In this paper, we propose FOCA (First-Order Context-based Adaptation),
 a learning framework to model sets of systems governed by common but unknown laws that differentiate themselves by their
